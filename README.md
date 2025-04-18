@@ -26,7 +26,7 @@ No external libraries needed — uses Python's built-in `hashlib` and `argparse`
 ### 🔧 Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/hashchecker.git
+git clone https://github.com/jordanstewart-hub/hashchecker.git
 cd hashchecker
 ```
 
