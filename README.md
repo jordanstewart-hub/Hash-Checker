@@ -52,6 +52,10 @@ python hashchecker.py --file sample.txt \
 Computed sha256 hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 ✅ Hash match: File integrity verified.
 ```
+If the computed hash does not match the provided hash, you'll see an error:
+❌ Hash mismatch: File may be altered.
+
+
 
 ---
 
@@ -75,4 +79,7 @@ This tool is for educational and integrity checking purposes only. It does not p
 
 
 Created by: **[Jordan Stewart]**
+
+
+
 
