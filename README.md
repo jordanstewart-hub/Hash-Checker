@@ -38,7 +38,7 @@ python hashchecker.py --file sample.txt --hash <expected_hash> --algo sha256
 
 ---
 
-## 💻 Example Usage
+##  Example Usage
 
 ```bash
 python hashchecker.py --file sample.txt \
@@ -55,7 +55,7 @@ Computed sha256 hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b78
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 hashchecker/
@@ -66,25 +66,13 @@ hashchecker/
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ DISCLAIMER
 
 This tool is for educational and integrity checking purposes only. It does not protect against malware or security breaches on its own.
 
----
 
-## 📄 License
 
-MIT License
 
----
 
-## 🤝 Contributing
-
-Pull requests are welcome! If you'd like to contribute, open an issue first to discuss what you would like to add or improve.
-
----
-
-## ✨ Author
-
-Created by **[Your Name]**
+Created by: **[Jordan Stewart]**
 
